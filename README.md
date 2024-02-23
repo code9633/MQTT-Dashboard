@@ -1,6 +1,5 @@
-Certainly! Here's the code for the README.md file:
 
-```markdown
+
 # MQTT Dashboard
 
 ![MQTT Dashboard Demo](demo.gif)
