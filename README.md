@@ -4,6 +4,9 @@
 
 ![MQTT Dashboard Demo](demo.gif)
 
+![Alt text](gitHub/Capture.png)
+
+
 MQTT Dashboard is a web application built with React that allows users to create and manage widgets associated with MQTT topics. It provides a simple interface to subscribe to MQTT topics and display real-time messages received from those topics.
 
 ## Features
